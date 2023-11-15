@@ -1,0 +1,306 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : paiement_retour
+ major_version : 28
+ minor_version : 0
+ type : 65538
+ description : ""
+ subtype : 8192
+page :
+ name : paiement_retour
+ identifier : 0x2f3249be11618b25
+ internal_properties : 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
+ properties : {}
+ controls :
+  -
+    name : PI_SansNom1
+    identifier : 0x2f3249d71165ee69
+    internal_properties : CAAAAAgAAADbwiL2ItGtXtzcJ/32k8P8lTfT76Z0z6pnxx4cRrRgurH8v5xqOusb8zzis0AWsxioEAT/u6hhz2GyKKsruwwlsyhTLsivnRYAqhMoh72KqdMO49n/ffn8tP+ipn1t0sLAVjGgLRI/yabRakjFEDdCgcGJQsx5mVbK50SeyMID6k7hI19lNnAyvqJcfQNWUeyLTtxAN+NG/pOiLtbUaveDIjOitERmAcFjkm3W5dTxUvLLOfGzr/M0nsESV1m85m1HjULbMgMnOdkmS3kKUCZwnw22/xlZCHWVG9QmJ0f9xQIX3FhdxWoVHE01lkcFP1CRRw1S6bb1IWJLXc4ShK+FLOVOkKTeTESQmaB16nG1ahqwJ5aS2bmGe7L17F2ILnq3o3YOglTjyjS9HoLU/GmFgfdtl3oycSzelBcMHkSyA/vrz9HJURu4O4oWLFE3QZgsXJqOY4JU0RuQilXl2SlMIG5cPBhe/U0fAX7pBK3Kv174zjRhoSdS3Ora04f3Y7vehssMwKQfHcurbKcmGYJVvaCtcl1IGc84UczU/Pn36xCII4ggkvKnm+pMilc0gNDTY37Xu+hLnxWHr7Os/lnORKefaTDEWl/3dG4SgO71aSf7H5KSfsB3zZ2YxuOQJSEn8VW8dKR9hMaS8lDt7HYtLy/Xe15NcJkqvzXgLYbyMVXfW6MBilEKcZLQEB5b3DA434mzYNLZXxu1egSVZ9jxjpSvA45iPya15caj2zh1OrQ1naqsLY6G2g2aFaR1ex1I8+GPZdUgc+WzqlgQ4xhVXN7omdyOOjFfNw4Sz5KuQJL2PDJjT6G28mRPhPaN3+CjgvGGrFej+TqXuueIsnRkXVWnADgXnKeXXBgtKFazx0BeOzJwBoLl1uCVxwskrhnYYz/CAFK4GmN1m2m3XQulFo488AenOH/QpJprn62OOO47qxgxXolyuoIMcgiu72S9+DSJatT5bewJ915nnQvEvxm7swSwZZuTxMDnBwdWbQBzTeyMPaxTjMxuDfPBfDR76QZCPNEMH+tSsGyWgcXScxw3Hm78tzo3xGLEMMyIHYZX6PFrCWcSf74SVQxb/3Kn9uG1FWiLGRe394Uxui2AekmnW3vsfEdyWuCFwiCYvd5yG5R/imvykyINyckuvDmCr4WZ9KAFpbl4zFGvdY7hGL+xhBfhj17r1vvORctUdJr88mJTxk9BPzB8pdGX1ZVyy6OJezkgEMWRB1UQUQN77FquuKz0sSJpi1kL49lKP+UPWe+WdgU3YvnvxjG3IMoLjg8d+EuUwqIt6qBXZcaz1IhalslKwaVlASK63wxpYeHidk7KLcCbHIm1zM/plLsEnUWpAsFRgcsipZ0FYIx1kWO5rOvYfu+ZAEpKpMOecqUpRdJwjiXQq2rSYBD8UrGYCzNc7fonGMLyjZl33dRX
+    properties :
+     x : 343
+     y : 66
+     width : 208
+     height : 57
+    type : 31
+    code_elements :
+     type_code : 77
+     alias : A1
+     p_codes :
+      -
+        type : 851999
+        role : N
+ type : 1
+ languages :
+  - fr-FR
+ code_elements :
+  type_code : 38
+  p_codes :
+   -
+     type : 852017
+     enabled : false
+   -
+     type : 852119
+     enabled : false
+   -
+     type : 852298
+     role : N
+   -
+     type : 851999
+     role : N
+   -
+     type : 852000
+     role : N
+   -
+     type : 852232
+     enabled : false
+   -
+     type : 852167
+     enabled : false
+   -
+     type : 852169
+     role : N
+     enabled : false
+   -
+     type : 852225
+     role : N
+     enabled : false
+   -
+     type : 852227
+     enabled : false
+   -
+     type : 1310979
+     enabled : false
+   -
+     type : 852228
+     role : N
+     enabled : false
+   -
+     type : 852217
+     role : N
+     enabled : false
+ code_parameters :
+  internal_properties : CAAAAAgAAAA5SYk6Gs4qlMdpgPm6NG4kPb0pXvLfaJh7KXnay27pMryr/hUxVoONA5Fwrd7PMjuUsmIEtJ9B1qAUnia6/Q==
+  original_name : PAGE_SansNom1
+resources :
+ string_res :
+  identifier : 0x1f3249a201641eeb
+  internal_properties : CAAAAAgAAAAFlvW1I/cgfuXNag6xc4AyE47VsCG+zyvQnUH/4VVSdHRr6N8=
+  strings :
+   -
+     text :
+      fr-FR : PC SOFT © 2006 - %1. Réalisé avec WebDev de PC SOFT
+     index : 0
+   -
+     text :
+      fr-FR : PC SOFT © 2006 - %1. Réalisé avec WebDev de PC SOFT
+     index : 1
+   -
+     text : {}
+     index : 2
+   -
+     text : {}
+     index : 3
+   -
+     text :
+      fr-FR : PC SOFT © 2006 - %1. Réalisé avec WebDev de PC SOFT
+     index : 4
+   -
+     text : {}
+     index : 5
+   -
+     text : {}
+     index : 6
+   -
+     text : {}
+     index : 7
+   -
+     text : {}
+     index : 8
+   -
+     text : {}
+     index : 9
+   -
+     text : {}
+     index : 10
+   -
+     text : {}
+     index : 11
+   -
+     text : {}
+     index : 12
+   -
+     text : {}
+     index : 13
+   -
+     text : {}
+     index : 14
+   -
+     text : {}
+     index : 15
+   -
+     text : {}
+     index : 16
+   -
+     text : {}
+     index : 17
+   -
+     text : {}
+     index : 18
+   -
+     text : {}
+     index : 19
+   -
+     text : {}
+     index : 20
+   -
+     text : {}
+     index : 21
+   -
+     text : {}
+     index : 22
+   -
+     text : {}
+     index : 23
+   -
+     text : {}
+     index : 24
+   -
+     text : {}
+     index : 25
+   -
+     text : {}
+     index : 26
+   -
+     text : {}
+     index : 27
+   -
+     text : {}
+     index : 28
+   -
+     text : {}
+     index : 29
+   -
+     text : {}
+     index : 30
+   -
+     text : {}
+     index : 31
+   -
+     text : {}
+     index : 32
+   -
+     text : {}
+     index : 33
+   -
+     text : {}
+     index : 34
+   -
+     text : {}
+     index : 35
+   -
+     text : {}
+     index : 36
+   -
+     text : {}
+     index : 37
+   -
+     text : {}
+     index : 38
+   -
+     text : {}
+     index : 39
+   -
+     text : {}
+     index : 40
+   -
+     text : {}
+     index : 41
+   -
+     text : {}
+     index : 42
+   -
+     text : {}
+     index : 43
+   -
+     text : {}
+     index : 44
+   -
+     text : {}
+     index : 45
+   -
+     text : {}
+     index : 46
+   -
+     text : {}
+     index : 47
+   -
+     text : {}
+     index : 48
+   -
+     text : {}
+     index : 49
+   -
+     text : {}
+     index : 50
+   -
+     text : {}
+     index : 51
+   -
+     text : {}
+     index : 52
+   -
+     text : {}
+     index : 53
+   -
+     text : {}
+     index : 54
+   -
+     text : {}
+     index : 55
+   -
+     text : {}
+     index : 56
+   -
+     text : {}
+     index : 57
+   -
+     text : {}
+     index : 58
+   -
+     text : {}
+     index : 59
+   -
+     text :
+      fr-FR : PC SOFT © 2006 - %1. Réalisé avec WebDev de PC SOFT
+     index : 60
+   -
+     text :
+      fr-FR : PC SOFT © 2006 - %1. Réalisé avec WebDev de PC SOFT
+     index : 61
+   -
+     text :
+      fr-FR : PC SOFT © 2006 - %1. Réalisé avec WebDev de PC SOFT
+     index : 62
+   -
+     text :
+      fr-FR : PC SOFT © 2006 - %1. Réalisé avec WebDev de PC SOFT
+     index : 63
+   -
+     text :
+      fr-FR : PC SOFT © 2006 - %1. Réalisé avec WebDev de PC SOFT
+     index : 64
+   -
+     text :
+      fr-FR : PC SOFT © 2006 - %1. Réalisé avec WebDev de PC SOFT
+     index : 65
+   -
+     text :
+      fr-FR : PC SOFT © 2006 - %1. Réalisé avec WebDev de PC SOFT
+     index : 66
+webification :
+ internal_properties : CAAAAAgAAACYzxT95H3qP7nIys4LqA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

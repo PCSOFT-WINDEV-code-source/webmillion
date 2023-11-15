@@ -1,0 +1,313 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : webmillion
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WebMillion
+    internal_properties : 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
+    configuration_id : 8470679540821402171
+    type : 2
+    generation_name : webmillion.wdl
+    version :
+     version : 30F160038e
+    index_page_generation_name : index
+    language : 1
+    64bits : true
+ elements :
+  identifier : 0x4acc697d002b8f85
+  elements :
+   -
+     name : detail_produit
+     identifier : 0x4e5643ad002f1124
+     internal_properties : CAAAAAgAAADwTih0s+jA2+cw27DHEzy6siO5kbomLiKpAfBT4V0/uQPDjEfFO9/GxHtlU9MN9evVXQ==
+     physical_name : .\detail_produit.wwh
+     type : 65538
+   -
+     name : PAGE_informations_legales
+     identifier : 0x4f0722d0003ea2ca
+     internal_properties : CAAAAAgAAADVsT1hXjtzrLrzmvOC0PXbz6IuRooeYyaOV3T27QKImGxgLRYK/pwFBz64AIBwCPjAQA==
+     physical_name : .\PAGE_informations_legales.wwh
+     type : 65538
+   -
+     name : PAGE_recherche
+     identifier : 0x4f0336b400872927
+     internal_properties : CAAAAAgAAAAZdcHF4l/X2OY/xr/OTWFHczCOVmgotgCtTHuzzCNz/ffpoKN+QtjBw3pkXCTcpBT8BA==
+     physical_name : .\PAGE_recherche.wwh
+     type : 65538
+   -
+     name : PAGE_contact
+     identifier : 0x4f071ce4003c800d
+     internal_properties : CAAAAAgAAAAFAW2xjiuDnKrjygNyYrk315Z+9k4aiCeC/jQo4zzWalpKC8harky19y6oEJBAOKgQEA==
+     physical_name : .\PAGE_contact.wwh
+     type : 65538
+   -
+     name : nos_produits
+     identifier : 0x4e57c28c011d94b9
+     internal_properties : CAAAAAgAAADzTyt/zLnxKjSBbCFQwefJ/a4oWHVKhKetiY58/w+HmW9tICP8zG5XVcw2ggL++u7WXg==
+     physical_name : .\nos_produits.wwh
+     type : 65538
+   -
+     name : REQ_LISTE_PHOTOS
+     identifier : 0x4e579e1b009b3cc7
+     internal_properties : CAAAAAgAAADBvTltWgcvwI4XLmdmqAmfY2YiesWyu1yqQNv7TEJQuDSI5e4mmjCZ61JMtHx0DPzETA==
+     physical_name : .\REQ_LISTE_PHOTOS.WDR
+     type : 5
+   -
+     name : paiement_retour
+     identifier : 0x4f3249c100cf96b9
+     internal_properties : CAAAAAgAAAAWfH6iAX42OYEeJR5tYDZIqC+nP5cGMcmvNHKfgY6GSopUG8hfoTmg4llDvUW7R7kDAw==
+     physical_name : .\paiement_retour.wwh
+     type : 65538
+   -
+     name : REQ_LISTE_PRODUITS_ACCUEILS
+     identifier : 0x4e550bdb002428c9
+     internal_properties : CAAAAAgAAADIRjDs24Cos78Y06jPU2RCWhuB2WL9AOS2+TnSEZ3/CePTnKd9Q+fO3EO9O/v1jQPNVQ==
+     physical_name : .\REQ_LISTE_PRODUITS_ACCUEILS.WDR
+     type : 5
+   -
+     name : produit_plus_disponible
+     identifier : 0x4e57a245009d80aa
+     internal_properties : CAAAAAgAAACV8f0hnvuz7Poz2rPC5ymfJwDick+0iEuvYTR24T1Z58U7dl3KPtzFx354QMAwyDiAgA==
+     physical_name : .\produit_plus_disponible.wwh
+     type : 65538
+   -
+     name : PAGE_Generation
+     identifier : 0x4f042712003d239f
+     internal_properties : CAAAAAgAAACno4+TEE3lhlDtyA18Y08pwa4UdLc0Z4txKa6+f7Fti3VfDsVQsEqz8SiSbjaqVkqysg==
+     physical_name : .\PAGE_Generation.wwh
+     type : 65538
+   -
+     name : ProcéduresServeur
+     identifier : 0x4e57d388017ceeac
+     internal_properties : CAAAAAgAAAD/W9fL+KUNHih1AMWE3OvlEVDYwHGGrle2sYGrko6EZKQMRR4I+JJ7ibAqlh7SriLqag==
+     physical_name : .\ProceduresServeur.wdg
+     type : 7
+   -
+     name : accueil
+     identifier : 0x4dfb7978001ed800
+     internal_properties : CAAAAAgAAAACeHquHUri/UXS+VIhek4wxKfzqxUPjqxCrnnEJegsjHBeEcJrXf3kJh2HcTGvS70HDw==
+     physical_name : .\accueil.wwh
+     type : 65538
+   -
+     name : index
+     identifier : 0x40ae0cbf003d9b57
+     internal_properties : CAAAAAgAAAC9mZWJNmNLVGKLQrv65D1Lpyq2niMgSP2qIU3fOtZEvAjUmUrSNtQ9T/bg2FiIcGCoqA==
+     physical_name : .\index.wwh
+     type : 65538
+   -
+     name : Modele_Page
+     identifier : 0x4e004afc00233b1c
+     internal_properties : CAAAAAgAAACd+fWpFkPr9EKr4lvaRV1TTyyqwgJxmUmixuMieoMLHe/hqKtyVvTdLxaAeDioUECIiA==
+     physical_name : .\Modele_Page.wwt
+     type : 65541
+   -
+     name : TEST_ProcéduresServeur
+     identifier : 0x4271110b008b68d9
+     internal_properties : CAAAAAgAAADBvTltWgcvwI4XLmdmgp0Lqxqi6tPIKZty4h8NnJQGIurK6/gmmjCZ61JMtHx0DPzETA==
+     physical_name : .\TEST_ProcéduresServeur.wxt
+     type : 17
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  analysis : .\webmillion.ana\webmillion.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components :
+   -
+     name : PaiementSecurise
+     identifier : 0x4642166500811104
+     internal_properties : CAAAAAgAAABO8OXnBzMrI+vQkxZ6zAD4S9DTzL48AXUfaZ+P8Xb/6Cj7hC3qIoL+Lgy760AuU/vFJ5Yn/rPCQ2zU/jl4hyvUk4XXpXQSUQ==
+     wdi_physical_name : .\PaiementSecurise.wdi
+     wdk_physical_name : .\PaiementSecurise.wdk
+     original_name : \\se\ComplementVI\WEBDEV 21\FR\Composants\Composants exemples\WW_PaiementSecurise\Exe\Composant\PaiementSecurise.wdi
+  internal_components :
+   -
+     physical_name : .\CompteVenteEnLigne\CompteVenteEnLigne.wci
+ common_generation_directory : true
+ wb_skin : 160 SystemOp
+ wb_color_palette : Suburbs & Dark
+ site_type : 3
+ languages :
+  - fr-FR
+ site_map :
+  roots :
+   -
+     name : accueil
+     parameters : []
+     title :
+      fr-FR : Accueil
+     description :
+      fr-FR : PAGE_accueil
+     children : []
+  orphans :
+   -
+     name : PAGE_Generation
+     parameters : []
+     title :
+      fr-FR : Génération des données
+     description :
+      fr-FR : Génération des données
+   -
+     name : PAGE_contact
+     parameters : []
+     title :
+      fr-FR : Plus d'un million de tenues vestimentaires de luxe !
+     description :
+      fr-FR : Plus d'un million de tenues vestimentaires de luxe !
+   -
+     name : PAGE_informations_legales
+     parameters : []
+     title :
+      fr-FR : Plus d'un million de tenues vestimentaires de luxe !
+     description :
+      fr-FR : Plus d'un million de tenues vestimentaires de luxe !
+   -
+     name : PAGE_recherche
+     parameters : []
+     title :
+      fr-FR : Plus d'un million de tenues vestimentaires de luxe !
+     description :
+      fr-FR : Plus d'un million de tenues vestimentaires de luxe !
+   -
+     name : accueil
+     parameters : []
+     title :
+      fr-FR : PAGE_accueil
+     description :
+      fr-FR : PAGE_accueil
+   -
+     name : connexion
+     parameters : []
+     title :
+      fr-FR : Connexion à mon compte
+     description :
+      fr-FR : Connexion à mon compte
+   -
+     name : detail_produit
+     parameters : []
+     title :
+      fr-FR : WebMillion
+     description :
+      fr-FR : WebMillion
+   -
+     name : index
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : nos_produits
+     parameters : []
+     title :
+      fr-FR : WebMillion
+     description :
+      fr-FR : WebMillion
+   -
+     name : paiement_retour
+     parameters : []
+     title :
+      fr-FR : Plus d'un million de tenues vestimentaires de luxe !
+     description :
+      fr-FR : Plus d'un million de tenues vestimentaires de luxe !
+   -
+     name : produit_plus_disponible
+     parameters : []
+     title :
+      fr-FR : WebMillion
+     description :
+      fr-FR : WebMillion
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAABseimUYz4VdXZ8hGsGFqoxLDfDcHkNZdBf0iQg2FQcqmw5VrO2lryVMt3efm9RagPlXJBReauIsX3ZdB8=
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAAAX4fY98YrQ8nsAu044wyC53wGkMPhRA+cTfk+khNHHZyWIjuzr9GnhLC+/cNRiJc7DftKcgLgg8ghXXgPSHty+1x8isQ9S7r6eOCjCCBA2hNV3Zlk86Xx9SjpLEjFX5Q5PI/2vLOta1pg667A=
+     code : |1+
+      CONSTANT
+      	// Les familles de produits
+      	cnFamille_Chemise_Homme			= 1
+      	cnFamille_Chemisier_Femme		= 2
+      	cnFamille_Polo_Homme			= 3
+      	cnFamille_Polo_Femme			= 4
+      	cnFamille_TShirt_ColV_Homme		= 5
+      	cnFamille_TShirt_ColV_Femme		= 6	
+      FIN
+      
+      GLOBAL
+      // Les familles de produits
+      gnFamille_Chemise_Homme	est un entier		= 1
+      gnFamille_Chemisier_Femme	est un entier	= 2
+      gnFamille_Polo_Homme	est un entier		= 3
+      gnFamille_Polo_Femme	est un entier		= 4
+      gnFamille_TShirt_ColV_Homme	est un entier	= 5
+      gnFamille_TShirt_ColV_Femme	est un entier	= 6	
+      
+      // Déclaration d'un contexte AWP
+      ConfigureContexteAWP(ctxDisque, ctxIDCookieURL)
+      
+      // Initialisation du composant interne de gestion de ecommerce
+      COL_ECommerce.InitialiseECommerce()
+      
+      // Initialisation du composant interne de gestion de l'espace client
+      COL_ComptesClient.InitialiseGestionClients()
+      
+      // Dans WebMillions on ne gère que 2 décimales
+      COL_ECommerce.gnNbDécimales = 2
+      COL_ECommerce.gsNomPageVisuProduit = "detail_produit.awp"
+      // Création/Ouverture de la base de données
+      HCréationSiInexistant("*")
+      
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WebMillion
+     identifier : 0x4acc697d003e908e
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    name : PaiementSecurise
+    explorer_type : custom_folder
+    children :
+     -
+       name : PI_Payback
+       explorer_type : element
+       type : 65542
+     -
+       name : PaiementSécurisé.PaiementSécurisé
+       explorer_type : element
+       type : 4
+     -
+       name : COL_PAIEMENTSECURISE
+       explorer_type : element
+       type : 7
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
